@@ -1,0 +1,8 @@
+ultralytics==8.2.90
+onnxruntime==1.15.1
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+pandas==2.2.3
+gradio==4.36.1
+sqlalchemy==2.2.4
+Pillow==10.0.1
